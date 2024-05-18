@@ -1,3 +1,4 @@
 payload:
   - 'www.sehuatang.org'
   - '+.v2rayssr.com'
+  - 'v2rayssr.com'

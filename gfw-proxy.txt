@@ -3,3 +3,4 @@ payload:
   - '+.v2rayssr.com'
   - 'v2rayssr.com'
   - 'crabpt.vip'
+  - '+.docker.com'

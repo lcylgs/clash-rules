@@ -5,3 +5,4 @@ payload:
   - 'crabpt.vip'
   - '+.docker.com'
   - '+.sehuatang.+'
+  - 'www.sehuatang.net'

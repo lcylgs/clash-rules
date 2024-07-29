@@ -4,3 +4,4 @@ payload:
   - 'v2rayssr.com'
   - 'crabpt.vip'
   - '+.docker.com'
+  - '+.sehuatang.+'

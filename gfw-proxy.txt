@@ -8,3 +8,4 @@ payload:
   - 'www.sehuatang.net'
   - 'star-space.net'
   - 'ptchina.org'
+  - 'passthepopcorn.me'

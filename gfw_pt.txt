@@ -6,3 +6,4 @@ payload:
   - 'www.torrentleech.org'
   - 'www.nicept.net'
   - 'pt.btschool.club'
+  - 'www.hddolby.com'

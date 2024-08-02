@@ -9,3 +9,4 @@ payload:
   - 'star-space.net'
   - 'ptchina.org'
   - 'passthepopcorn.me'
+  - 'piggo.me'

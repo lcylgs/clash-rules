@@ -6,7 +6,3 @@ payload:
   - '+.docker.com'
   - '+.sehuatang.+'
   - 'www.sehuatang.net'
-  - 'star-space.net'
-  - 'ptchina.org'
-  - 'passthepopcorn.me'
-  - 'piggo.me'

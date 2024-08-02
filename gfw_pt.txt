@@ -3,3 +3,4 @@ payload:
   - 'ptchina.org'
   - 'passthepopcorn.me'
   - 'piggo.me'
+  - 'www.torrentleech.org'

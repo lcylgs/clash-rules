@@ -4,3 +4,5 @@ payload:
   - 'passthepopcorn.me'
   - 'piggo.me'
   - 'www.torrentleech.org'
+  - 'www.nicept.net'
+  - 'pt.btschool.club'

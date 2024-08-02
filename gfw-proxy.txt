@@ -6,3 +6,4 @@ payload:
   - '+.docker.com'
   - '+.sehuatang.+'
   - 'www.sehuatang.net'
+  - 'star-space.net'

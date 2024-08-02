@@ -7,3 +7,4 @@ payload:
   - '+.sehuatang.+'
   - 'www.sehuatang.net'
   - 'star-space.net'
+  - 'ptchina.org'

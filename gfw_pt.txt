@@ -8,3 +8,4 @@ payload:
   - 'pt.btschool.club'
   - 'www.hddolby.com'
   - 'xingtan.one'
+  - 'hdcity.city'

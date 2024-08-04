@@ -11,3 +11,4 @@ payload:
   - 'hdcity.city'
   - 'www.pthome.net'
   - 'leaves.red'
+  - 'pt.btschool.club'

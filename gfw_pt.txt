@@ -9,3 +9,4 @@ payload:
   - 'www.hddolby.com'
   - 'xingtan.one'
   - 'hdcity.city'
+  - 'www.pthome.net'

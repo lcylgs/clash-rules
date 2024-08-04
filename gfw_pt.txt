@@ -7,3 +7,4 @@ payload:
   - 'www.nicept.net'
   - 'pt.btschool.club'
   - 'www.hddolby.com'
+  - 'xingtan.one'

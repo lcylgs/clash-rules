@@ -12,3 +12,4 @@ payload:
   - 'www.pthome.net'
   - 'leaves.red'
   - 'pt.btschool.club'
+  - 'challenges.cloudflare.com'

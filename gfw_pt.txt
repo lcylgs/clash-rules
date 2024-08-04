@@ -13,3 +13,4 @@ payload:
   - 'leaves.red'
   - 'pt.btschool.club'
   - 'challenges.cloudflare.com'
+  - 'pt.hdpost.top'

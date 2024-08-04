@@ -10,3 +10,4 @@ payload:
   - 'xingtan.one'
   - 'hdcity.city'
   - 'www.pthome.net'
+  - 'leaves.red'

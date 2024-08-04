@@ -6,4 +6,3 @@ payload:
   - '+.docker.com'
   - '+.sehuatang.+'
   - 'www.sehuatang.net'
-  - 'challenges.cloudflare.com'

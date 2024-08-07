@@ -14,3 +14,8 @@ payload:
   - 'pt.btschool.club'
   - 'challenges.cloudflare.com'
   - 'pt.hdpost.top'
+  - 'byr.pt'
+  - 'pt.2xfree.org'
+  - 'www.pussytorrents.org'
+  - 'fsm.name'
+  - 'gazellegames.net'

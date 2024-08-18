@@ -19,3 +19,4 @@ payload:
   - 'www.pussytorrents.org'
   - 'fsm.name'
   - 'gazellegames.net'
+  - 'monikadesign.uk'

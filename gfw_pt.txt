@@ -18,6 +18,5 @@ payload:
   - 'pt.2xfree.org'
   - 'www.pussytorrents.org'
   - 'fsm.name'
-  - 'gazellegames.net'
   - 'monikadesign.uk'
   - 'www.oshen.win'

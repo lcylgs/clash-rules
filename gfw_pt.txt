@@ -27,3 +27,4 @@ payload:
   - 'totheglory.im'
   - 'orpheus.network'
   - 'www.joyhd.net'
+  - 'hdfun.me'

@@ -26,3 +26,4 @@ payload:
   - 'ptcafe.club'
   - 'totheglory.im'
   - 'orpheus.network'
+  - 'www.joyhd.net'

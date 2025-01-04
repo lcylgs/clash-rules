@@ -22,3 +22,6 @@ payload:
   - 'www.oshen.win'
   - 'agsvpt.com'
   - 'pt.soulvoice.club'
+  - 'hhanclub.top'
+  - 'ptcafe.club'
+  - 'totheglory.im'

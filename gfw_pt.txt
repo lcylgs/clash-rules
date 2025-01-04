@@ -21,3 +21,4 @@ payload:
   - 'monikadesign.uk'
   - 'www.oshen.win'
   - 'agsvpt.com'
+  - 'pt.soulvoice.club'
